@@ -1,10 +1,9 @@
 {
-  "name": "blake2b",
+  "name": "blake2b-no-wasm",
   "version": "2.1.4",
   "description": "Blake2b (64-bit version) in pure Javascript",
   "main": "index.js",
   "dependencies": {
-    "blake2b-wasm": "^2.4.0",
     "nanoassert": "^2.0.0"
   },
   "devDependencies": {
