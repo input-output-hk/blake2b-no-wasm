@@ -20,7 +20,7 @@
     "url": "git+https://github.com/input-output-hk/blake2b-no-wasm.git"
   },
   "keywords": [],
-  "author": "Emil Bay <github@tixz.dk>",
+  "author": "Michael Chappell <michael.chappell@iohk.io>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/input-output-hk/blake2b-no-wasm/issues"
