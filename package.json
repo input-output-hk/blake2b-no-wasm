@@ -17,13 +17,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emilbayes/blake2b.git"
+    "url": "git+https://github.com/input-output-hk/blake2b-no-wasm.git"
   },
   "keywords": [],
   "author": "Emil Bay <github@tixz.dk>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/emilbayes/blake2b/issues"
+    "url": "https://github.com/input-output-hk/blake2b-no-wasm/issues"
   },
-  "homepage": "https://github.com/emilbayes/blake2b#readme"
+  "homepage": "https://github.com/input-output-hk/blake2b-no-wasm#readme"
 }
